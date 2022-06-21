@@ -8,7 +8,7 @@ trigger:
 
 pool:
   name: 'default'
-  vmImage: ubuntu
+  vmImage: sumivm
 
 steps:
 - task: NodeTool@0
